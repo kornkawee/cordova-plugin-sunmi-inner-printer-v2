@@ -35,10 +35,10 @@ Plugin based on https://github.com/labibramadhan/cordova-sunmi-inner-printer
 3. Bump version to `1.1.0`
 ======================== Detail Update Version End =======================
 
-```````````````````````````````````````
 Example of usage in an angular component (I still need to document the rest of the possible functions, but you can take a look in the innerprinter.js:
-```````````````````````````````````````
 
+
+```````````````````````````````````````
 import {Component} from '@angular/core';
 
 
@@ -70,9 +70,11 @@ export class HomePage {
 
 	}
 }
-
 ```````````````````````````````````````
+
+------------------------------------------------------------
 Tested with:
+------------------------------------------------------------
 ```````````````````````````````````````
 Ionic:
 
@@ -99,8 +101,8 @@ System:
    NodeJS            : v18.19.1
    npm               : 10.8.3
    OS                : Windows 10
-
 ```````````````````````````````````````
+
 *Project Package.json* ( So you can see exactly what I am using in projects that are using this plugin)
 ```````````````````````````````````````
 	"description": "An Ionic project",
@@ -112,9 +114,7 @@ System:
 			"android"
 		]
 	}
-```
-
-```
+```````````````````````````````````````
 
 java version "17.0.7"
 Java(TM) SE Runtime Environment (build 17.0.7+8-LTS-224)
@@ -124,13 +124,11 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.7+8-LTS-224, mixed mode, sharing)
 Gradle 8.7
 ------------------------------------------------------------
 
-```````````````````````````````````````
+------------------------------------------------------------
 Config Project For Android Studio
-```````````````````````````````````````
+------------------------------------------------------------
 Project Structure -> Gradle Version : 8.9
 Setting -> Build,Execution,Deployment -> Build Tools -> Gradle : Gradle JDK 17.0.7 (Oracle OpenJDK 17.0.7)
 
-
-```````````````````````````````````````
 
 
