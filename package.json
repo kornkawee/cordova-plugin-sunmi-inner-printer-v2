@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-sunmi-inner-printer-v2",
+  "description": "Cordova/Ionic Sunmi v2 Inner Printer ",
+  "cordova": {
+    "id": "cordova-plugin-sunmi-inner-printer-v2",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": {
+    "name": "Silvio Campos. Adapted to Sunmi v2 by Jose Escoboso. Forked by Martin Lombana for name changes and future updates."
+  },
+  "license": "MIT",
+  "engines": {
+    "cordovaDependencies": {
+      "7.1.0": {
+        "cordova-android": ">=7.1.0"
+      }
+    }
+  },
+  "version": "1.1.1",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
