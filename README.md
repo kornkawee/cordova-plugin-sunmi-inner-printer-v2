@@ -71,6 +71,15 @@ export class HomePage {
 	}
 }
 ```````````````````````````````````````
+------------------------------------------------------------
+How To Install Plugin :
+------------------------------------------------------------
+```````````````````````````````````````
+ionic cordova plugin add https://github.com/kornkawee/cordova-plugin-sunmi-inner-printer-v2
+```````````````````````````````````````
+```````````````````````````````````````
+cordova plugin add https://github.com/kornkawee/cordova-plugin-sunmi-inner-printer-v2
+```````````````````````````````````````
 
 ------------------------------------------------------------
 Tested with:
